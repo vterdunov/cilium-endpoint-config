@@ -1,0 +1,5 @@
+apiVersion: v2
+name: cilium-endpoint-config
+version: 0.1.0
+type: application
+description: Creates a ConfigMap with the EKS API endpoint for Cilium k8sServiceHostRef
